@@ -2,7 +2,7 @@
 
 ## Reviews
 - [x] One day after
-- [ ] Three days after
+- [x] Three days after
 - [ ] One weeak after
 - [ ] One month after
 - [ ] Two months after
@@ -39,7 +39,7 @@ Alternatively, for H1 and H2, an underline-ish style:
 Alt-H1
 ======
 
-Alt-H2
+Alt-H2 
 ------
 
 ## Emphasis
@@ -128,7 +128,7 @@ Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[link text itself]: http://www.github.com
 ```
 
 [I'm an inline-style link](https://www.google.com)
